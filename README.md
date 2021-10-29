@@ -1,4 +1,4 @@
-# From-scratch-machine-learning---From-mathematical-formulas-to-functioning-algorithms
+# From-scratch-machine-learning--From-mathematical-formulas-to-functioning-algorithms
 ## Repo description
 In this repository I will attempt to implement popular machine learning algorithms from their basic mathematical fundamentals to their code counterparts.
 
