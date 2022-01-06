@@ -1,5 +1,7 @@
 # From-scratch-machine-learning---From-mathematical-formulas-to-functioning-algorithms.
+
 ## Repo description : 
+
 In this repository I will implement popular machine learning algorithms from their basic mathematical fundamentals to their code counterparts such as the implementations in scikit-Learn.
 
 The purpose of this repository is:
