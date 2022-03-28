@@ -4,7 +4,7 @@
 
 In this repository I will implement popular machine learning algorithms from their basic mathematical fundamentals to their code counterparts such as the implementations in scikit-Learn.
 
-The purpose of this repository is:
+The purpose of this repository is:ccc
 
 1. To get a deeper feel and insight to the inner workings of these algorithms.
 2. To gain a higher level of understanding, use cases , strengths and weaknesses of these many algorithms and their different implementations.
