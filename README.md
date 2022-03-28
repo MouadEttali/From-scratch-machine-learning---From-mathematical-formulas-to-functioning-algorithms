@@ -2,7 +2,7 @@
 
 ## Repo description: 
 
-In this repository I will implement popular machine learning algorithms from their basic mathematical fundamentals to their code counterparts such as the implementations in scikit-Learn.
+In this repository I will implement popular machine learning algorithms from their basic mathematical fundamentals to their code counterparts such as the implementations in scikit-Learn.sss
 
 The purpose of this repository is:
 
