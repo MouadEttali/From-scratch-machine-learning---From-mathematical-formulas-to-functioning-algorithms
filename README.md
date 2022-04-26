@@ -1,4 +1,4 @@
-# From-scratch-machine-learning--From-mathematical-formulas-to-functioning-algorithms.sssssss
+# From-scratch-machine-learning--From-mathematical-formulas-to-functioning-algorithms.sssss
 
 ## Repo description: 
 
